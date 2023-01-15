@@ -1,2 +1,2 @@
 # First-practical-work
-First practical work for massive computing UC3M
+python image filter for the course massive computing at UC3M
